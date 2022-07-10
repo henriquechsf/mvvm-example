@@ -1,7 +1,8 @@
-package com.github.henriquechsf.roomwordsample
+package com.github.henriquechsf.roomwordsample.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.github.henriquechsf.roomwordsample.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
